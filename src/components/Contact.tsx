@@ -40,7 +40,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold">Phone</h4>
-                  <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                  <p className="text-muted-foreground">+91 9064781961</p>
                 </div>
               </CardContent>
             </Card>
@@ -52,7 +52,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold">Location</h4>
-                  <p className="text-muted-foreground">Los Angeles, CA</p>
+                  <p className="text-muted-foreground">Puruliya, WB, India</p>
                 </div>
               </CardContent>
             </Card>

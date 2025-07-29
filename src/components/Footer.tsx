@@ -48,8 +48,8 @@ export const Footer = () => {
             <h4 className="font-semibold mb-4">Get in Touch</h4>
             <div className="space-y-2 text-sm text-muted-foreground">
               <p>hello@videoeditor.com</p>
-              <p>+1 (555) 123-4567</p>
-              <p>Los Angeles, CA</p>
+              <p>+91 9064781961</p>
+              <p>Puruliya, WB, India</p>
             </div>
             <div className="flex space-x-2 mt-4">
               {socialLinks.map((social) => (
